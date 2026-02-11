@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Full Stack Developer (Python + React) <br/>
-  💡 Interested in Web Development, Backend APIs, and Machine Learning basics.
+  💡 Interested in Web Development, Backend APIs, and Machine Learning.
 </p>
 
 ---
