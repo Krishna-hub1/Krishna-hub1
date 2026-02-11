@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Krishna</h1>
 
 <p align="center">
-  🚀 Associate Software Engineer | Full Stack Developer (Python + React) <br/>
+  🚀 Full Stack Developer (Python + React) <br/>
   💡 Interested in Web Development, Backend APIs, and Machine Learning basics.
 </p>
 
 ---
 
-## 🧑‍💻 Tech Stack (Recruiter-Friendly)
+## 🧑‍💻 Tech Stack
 
 <details open>
 <summary><b>🟦 Languages</b></summary>
