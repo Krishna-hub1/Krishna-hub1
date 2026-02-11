@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Krishna</h1>
+<h1 align="center">Hi there 👋 
 
 <p align="center">
   🚀 Full Stack Developer (Python + React) <br/>
