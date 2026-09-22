@@ -65,7 +65,3 @@
 - Basic ML models using **scikit-learn**
 
 ---
-
-
-## 📫 Connect
-- GitHub: https://github.com/Krishna-hub1
